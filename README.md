@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science and OOP
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on beginner to intermediate level projects
-- 📫 How to reach me asanka_sub@hotmail.com
+- 📫 How to reach me asanka_sub@hotmail.com or https://www.linkedin.com/in/asanka-subasinghe-0976b01b3/
 
 <!---
 asankasub/asankasub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
